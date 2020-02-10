@@ -5,3 +5,5 @@ The advantage of this model over other models is that it does not require many t
 
 **Dataset Description:** The dataset consists of car images. Each image has just one car. We are provided with the binary mask of each image which serves as label and is used in training the model.
 We use 1000 images in training dataset.
+
+Dataset link: https://drive.google.com/open?id=16wDIscDi7jyyZgbyesc0pANS3SUjh13H 
